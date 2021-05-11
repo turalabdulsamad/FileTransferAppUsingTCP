@@ -9,6 +9,7 @@ C: / Workspace / notes.txt
 
 Then, IP and port of the server will be asked which you want to send this image to:
 You need to enter IP and port in this format: 
+
 localhost:5678
 
 Make sure there is a colon between them.
